@@ -1,3 +1,2 @@
 # Photos-Search-Using-Unsplash-API
-![GitHub Logo](result.jpeg)
-Format: ![Alt Text](url)
+[My image](phoolchandra.github.com/Photos-Search-Using-Unsplash-API/result_1.jpeg)
