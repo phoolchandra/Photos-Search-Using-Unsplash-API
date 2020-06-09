@@ -1,4 +1,11 @@
-# Photos-Search-Using-Unsplash-API
+# Photos Search Android App
+## You can search the photos by category wise. You put your catogery in Query text then press search, it redirects you to new activity and showing the result images in grid view. The catogery may be like "nature", "tiger", "water", "india", ..., etc.
+
+### Few key points<br>
+#### 1. I am using the recycler View to show the images in grid View.
+#### 2. Fetching the images from Unsplash Api 
+#### 3. Using the retorfit and Okhttps to bring the data from API.
+
 ## Front page
 
 <p align="center">
