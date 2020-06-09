@@ -1,2 +1,2 @@
 # Photos-Search-Using-Unsplash-API
-[My image](phoolchandra.github.com/Photos-Search-Using-Unsplash-API/result_1.jpeg)
+[My image](https://github.com/phoolchandra/Photos-Search-Using-Unsplash-API/blob/master/result_1.jpeg)
