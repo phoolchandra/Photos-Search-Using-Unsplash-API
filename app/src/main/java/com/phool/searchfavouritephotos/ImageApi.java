@@ -28,7 +28,7 @@ public class ImageApi {
                 @Override
                 public Response intercept(Chain chain) throws IOException {
                     Request request = chain.request().newBuilder()
-                            .addHeader("Authorization", "Client-ID " + "E7S5vOEk-ffb3br-pvU3StZ73WHNeX2u15aiN_hJ0NM")
+                            .addHeader("Authorization", "Client-ID " + "your access key")
                             .build();
                     return chain.proceed(request);
                 }
